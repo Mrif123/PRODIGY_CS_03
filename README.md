@@ -8,3 +8,5 @@ And also designed an intuitive GUI using Tkinter,making the tool user-friendly a
 
 The glimpses of the GUI Developed is attached below:
 
+![Screenshot (218)](https://github.com/user-attachments/assets/7c73a564-e4f9-4da0-9c13-90fa1bc7abdd)
+![Screenshot (219)](https://github.com/user-attachments/assets/045a2416-89a6-4ef7-bb54-155a8f91a5ca)
